@@ -1,0 +1,114 @@
+tr{
+	width: auto;
+	height: 60px;
+	background-color: rgba(181,255,1237,0.63);
+}
+td{
+	width: 100px;
+	height: auto;
+	text-align: center;
+	border: solid;
+	border-bottom-width: 0px;
+	border-top-width: 1px;
+	border-left-width: 0px;
+	border-right-width: 0px;
+	font-family: sans-serif;
+}
+th{
+	text-align: center;
+	border: solid;
+	border-bottom-width: 0px;
+	border-top-width: 0px;
+	border-left-width: 0px;
+	border-right-width: 0px;
+	font-family: sans-serif;
+}
+
+.content-add{
+	width: 300px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.row-content-title{
+	text-align: center;
+	font-family: sans-serif;
+}
+.row-content-action{
+	width: auto;
+	height: 50px;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+.message-alert-success,.message-alert-error{
+	width: 725px;
+	height: 50px;
+	background-color: rgba(45,213,0,0.68);
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: sans-serif;
+}
+.message-alert-error{
+	background-color: rgba(245, 131, 39, 0.6);
+}
+.button-add-data{
+	width: 120px;
+	height: 50px;
+	margin-bottom: 5px;
+	margin-left: 300px;
+	background-color: rgba(39, 245, 118, 0.6);
+	border-width: 0px;
+	border-radius: 5px;
+}
+.table-content{
+	margin-top: 10px;
+	width: auto;
+	height: auto;
+}
+.table-bordered{
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid black;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-width: 1px;
+}
+.edit-button,.show-button,.button-delete{
+	width: 80px;
+	height: 30px;
+}
+
+.edit-button{
+	background-color: rgba(44,209,10,0.7);
+	border-width: 0px;
+	border-radius: 3px;
+}
+.show-button{
+	background-color: rgba(39, 110, 245, 0.68);
+	border-width: 0px;
+	border-radius: 3px;
+}
+.button-delete{
+	background-color: rgba(245, 80, 39, 0.63);
+	border-width: 0px;
+	border-radius: 3px;
+}
+
+#message{
+	padding-top: 15px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+#action-col{
+	width: 300px;
+	height: auto;
+}
+#bold-plus{
+	font-size: 15px;
+}
+#row-head{
+	background-color:rgba(234, 245, 39, 0.6)
+}
